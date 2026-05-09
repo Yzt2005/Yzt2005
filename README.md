@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 你好，我是于梓桐
 
-<!--
-**Yzt2005/Yzt2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **金融科技** 专业 · 西安外国语大学 · 2028届  
+📊 数据分析 | 金融科技 | Python | SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 作品集
+
+### 🔹 项目一：基于股评文本的情绪分析与股票收益率回归
+
+- **技术栈**：Python, SnowNLP, pandas, matplotlib, statsmodels, tushare
+- **简介**：  
+  1️⃣ 对股票评论进行情绪打分，与上证/深证指数波动对比  
+  2️⃣ 获取中兴通讯与沪深300指数数据，构建一元线性回归模型  
+- **项目链接**：[stock-sentiment-regression-analysis](https://github.com/Yzt2005/stock-sentiment-regression-analysis) （稍后创建）
+
+---
+
+## 📫 联系我
+
+- GitHub: [https://github.com/Yzt2005](https://github.com/Yzt2005)
+- 邮箱: 107242024000468@stu.xisu.edu.cn
