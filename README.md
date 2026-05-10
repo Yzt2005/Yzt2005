@@ -1,23 +1,22 @@
-# 👋 你好，我是于梓桐
+# 👋 Hi, I'm Yu Zitong (yzt2005)
 
-🎓 **金融科技** 专业 · 西安外国语大学 · 2028届  
-📊 数据分析 | 金融科技 | Python | SQL  
-
----
-
-## 📌 作品集
-
-### 🔹 项目一：基于股评文本的情绪分析与股票收益率回归
-
-- **技术栈**：Python, SnowNLP, pandas, matplotlib, statsmodels, tushare
-- **简介**：  
-  1️⃣ 对股票评论进行情绪打分，与上证/深证指数波动对比  
-  2️⃣ 获取中兴通讯与沪深300指数数据，构建一元线性回归模型  
-- **项目链接**：[stock-sentiment-regression-analysis](https://github.com/Yzt2005/stock-sentiment-regression-analysis) （稍后创建）
+🎓 Financial Technology @ Xi'an International Studies University (Class of 2028)  
+📊 Python | SQL | SnowNLP | Pandas | Matplotlib | Tushare  
 
 ---
 
-## 📫 联系我
+## 📌 Projects
 
-- GitHub: [https://github.com/Yzt2005](https://github.com/Yzt2005)
-- 邮箱: 107242024000468@stu.xisu.edu.cn
+### 🔹 Stock Sentiment Analysis & Regression Analysis  
+- **Tech:** Python, SnowNLP, Pandas, Matplotlib, Statsmodels, Tushare  
+- **What I did:**  
+  1️⃣ Scored stock comments sentiment & visualized against SSE/SZSE indices  
+  2️⃣ Built linear regression to model ZTE's daily returns vs CSI 300  
+- **Repo:** [stock-sentiment-regression-analysis](https://github.com/yzt2005/stock-sentiment-regression-analysis)  <!-- 替换为你的项目仓库链接 -->
+
+---
+
+## 📫 Contact
+
+- GitHub: [github.com/yzt2005](https://github.com/yzt2005)  
+- Email: 107242024000468@stu.xisu.edu.cn
